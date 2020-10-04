@@ -1,0 +1,159 @@
+/* section-cadastro */
+#section-cadastro{
+    background-color: #F2F0F6;
+    padding: 5% 0;
+    text-align: center;
+}
+#form-cadastro{
+    width: 45%;
+    margin: 0 auto;
+}
+#form-cadastro fieldset{
+    padding: 5%;
+}
+#form-cadastro legend{
+    font-size: 24px;
+}
+#form-cadastro input[type="text"],#form-cadastro input[type="email"],#form-cadastro input[type="password"]{
+    width: 80%;
+    padding: 1.5%;
+    margin-bottom: 5%;
+    outline: 0;
+}
+#form-cadastro input[type="submit"],#form-cadastro input[type="reset"]{
+	border-radius:28px;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Arial;
+	font-size:17px;
+	padding:16px 31px;
+	text-decoration:none;
+    margin: 0 5%;
+    transition: 400ms;
+}
+#form-cadastro input[type="submit"]{
+    border:1px solid #18ab29;
+    background-color:#44c767;
+    text-shadow:0px 1px 0px #2f6627;
+}
+#form-cadastro input[type="submit"]:hover{
+    background-color:#5cbf2a;
+    padding: 20px 35px;
+}
+#form-cadastro input[type="reset"]{
+    border:1px solid #ab1818;
+    background-color:#c74444;
+    text-shadow:0px 1px 0px #662727;
+}
+#form-cadastro input[type="reset"]:hover{
+    background-color:#bf2a2a;
+    padding: 20px 35px;
+}
+
+/* section-login */
+#section-login{
+    background-color: #F2F0F6;
+    padding: 5% 0;
+    text-align: center;
+}
+#form-login{
+    width: 45%;
+    margin: 0 auto;
+}
+#form-login fieldset{
+    padding: 5%;
+}
+#form-login legend{
+    font-size: 24px;
+}
+#form-login input[type="text"],#form-login input[type="email"],#form-login input[type="password"]{
+    width: 80%;
+    padding: 1.5%;
+    margin-bottom: 5%;
+    outline: 0;
+}
+#form-login input[type="submit"],#form-login input[type="reset"]{
+	border-radius:28px;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Arial;
+	font-size:17px;
+	padding:16px 31px;
+	text-decoration:none;
+    margin: 0 5%;
+    transition: 400ms;
+}
+#form-login input[type="submit"]{
+    border:1px solid #18ab29;
+    background-color:#44c767;
+    text-shadow:0px 1px 0px #2f6627;
+}
+#form-login input[type="submit"]:hover{
+    background-color:#5cbf2a;
+    padding: 20px 35px;
+}
+#form-login input[type="reset"]{
+    border:1px solid #ab1818;
+    background-color:#c74444;
+    text-shadow:0px 1px 0px #662727;
+}
+#form-login input[type="reset"]:hover{
+    background-color:#bf2a2a;
+    padding: 20px 35px;
+}
+
+/* Conversor de moedas */
+#section-conversor{
+    background-color: #F2F0F6;
+    padding: 5% 0;
+    text-align: center;
+}
+#form-conversor{
+    width: 45%;
+    margin: 0 auto;
+}
+#form-conversor fieldset{
+    padding: 5%;
+}
+#form-conversor legend{
+    font-size: 24px;
+}
+#form-conversor input[type="text"],#form-conversor select{
+    width: 80%;
+    padding: 1.5%;
+    margin-bottom: 5%;
+    outline: 0;
+}
+#form-conversor input[type="submit"],#form-conversor input[type="reset"]{
+	border-radius:28px;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Arial;
+	font-size:17px;
+	padding:16px 31px;
+	text-decoration:none;
+    margin: 0 5%;
+    margin-top: 5%;
+    transition: 400ms;
+}
+#form-conversor input[type="submit"]{
+    border:1px solid #18ab29;
+    background-color:#44c767;
+    text-shadow:0px 1px 0px #2f6627;
+}
+#form-conversor input[type="submit"]:hover{
+    background-color:#5cbf2a;
+    padding: 20px 35px;
+}
+#form-conversor input[type="reset"]{
+    border:1px solid #ab1818;
+    background-color:#c74444;
+    text-shadow:0px 1px 0px #662727;
+}
+#form-conversor input[type="reset"]:hover{
+    background-color:#bf2a2a;
+    padding: 20px 35px;
+}
